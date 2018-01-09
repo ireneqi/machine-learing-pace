@@ -1,7 +1,7 @@
 # machine-learing-pace
 # the accumulate for the machine learing
 # project for part static
-# Stroop 中思维导图为思考过程 excel为相关计算过程和有效图表。
+# Stroop 中思维导图为思考过程 excel为相关计算过程和有效图表（这两个文件是重点呦）。
 # background information
 在一个 Stroop （斯特鲁普）任务中，参与者得到了一列文字，每个文字都用一种油墨颜色展示。参与者的任务是将文字的打印颜色大声说出来。这项任务有两个条件：一致文字条件，和不一致文字条件。在一致文字条件中，显示的文字是与它们的打印颜色匹配的颜色词，如“红色”、“蓝色”。在不一致文字条件中，显示的文字是与它们的打印颜色不匹配的颜色词，如“紫色”、“橙色”。在每个情况中，我们将计量说出同等大小的列表中的墨色名称的时间。每位参与者必须全部完成并记录每种条件下使用的时间。
 # quiz for the servey
